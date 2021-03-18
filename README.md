@@ -16,6 +16,5 @@ Semantic HTML elments were required to be executed to follow a logical structure
 - Git
 
 ##### Link to Deployed Application
-https://Macquarts.github.io.git/Code-Refractor
-######
+https://github.com/Macquarts/Code-Refractor.github.io.git######
 Landing Page
